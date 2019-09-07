@@ -8,7 +8,7 @@
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>30.0 20.0</size>
+            <size>9.0 6.0</size>
           </plane>
         </geometry>
         <surface>
@@ -21,12 +21,12 @@
         </surface>
       </collision>
       <visual name="base1">
-        <pose>0 11 0.001 0 0 0</pose>
+        <pose>0 3.25 0.001 0 0 0</pose>
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>34.0 2.0</size>
+            <size>11.0 0.5</size>
           </plane>
         </geometry>
         <material>
@@ -38,12 +38,12 @@
         </material>
       </visual>
       <visual name="base2">
-        <pose>0 -11 0.001 0 0 0</pose>
+        <pose>0 -3.25 0.001 0 0 0</pose>
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>34.0 2.0</size>
+            <size>11.0 0.5</size>
           </plane>
         </geometry>
         <material>
@@ -55,12 +55,12 @@
         </material>
       </visual>
       <visual name="base3">
-        <pose>16 0 0.001 0 0 0</pose>
+        <pose>5.0 0 0.001 0 0 0</pose>
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>2.0 20.0</size>
+            <size>1.0 6.0</size>
           </plane>
         </geometry>
         <material>
@@ -72,12 +72,12 @@
         </material>
       </visual>
       <visual name="base4">
-        <pose>-16 0 0.001 0 0 0</pose>
+        <pose>-5.0 0 0.001 0 0 0</pose>
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>2.0 20.0</size>
+            <size>1.0 6.0</size>
           </plane>
         </geometry>
         <material>
@@ -93,7 +93,7 @@
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>30.0 20.0</size>
+            <size>9.0 6.0</size>
           </plane>
         </geometry>
         <material>
