@@ -164,7 +164,7 @@
     <visual>
       <origin xyz="0.085 0 0.085" rpy="0 0 0"/>
       <geometry>
-        <!--<mesh filename="package://robot_sim_demo/models/meshes/xtion_pro_camera.dae" />-->
+        <!--<mesh filename="package://urdf_demo/camera.dae" />-->
 	<box size="0.05 0.05 0.05"/>
       </geometry>
     </visual>
